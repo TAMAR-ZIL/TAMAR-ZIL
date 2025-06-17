@@ -1,4 +1,5 @@
-🌟 About Me:
+### 🌟 About Me:
+
 🤝 Exploring exciting opportunities in Full Stack Development where creativity and quality matter most.
 📝 Why hire me?
 If you're looking for someone highly motivated, exceptionally talented, and passionate about development, I’m your perfect match!
@@ -7,8 +8,8 @@ I also love discussing algorithms and solving coding challenges.
 - 🧩 **Fun fact**: I enjoy breaking down complex systems just to rebuild them better — like reverse-engineering for fun!
 - 📫 Connect with Me:
 📧 Email: 0527199526@gmail.com
-
 📞 Phone: 0527199526
+
 ### 🧰 Languages & Tools:
 
 <p align="left">
@@ -37,7 +38,7 @@ I also love discussing algorithms and solving coding challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMAR-ZIL&layout=compact&theme=tokyonight)
