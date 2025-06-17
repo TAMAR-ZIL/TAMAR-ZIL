@@ -11,13 +11,13 @@ I also love discussing algorithms and solving coding challenges.
 
  🧩 **Fun fact**: I enjoy breaking down complex systems just to rebuild them better — like reverse-engineering for fun!
 
-- 📫 Connect with Me:
+📫 Connect with Me:
 
 
-📧 Email: 0527199526@gmail.com
+📧 Email: 0527199526@gmail.com  
 
 
-📞 Phone: 0527199526
+📞 Phone: 0527199526  
 
 
 
@@ -49,11 +49,11 @@ I also love discussing algorithms and solving coding challenges.
   <!-- DevOps / OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+</p>  
 
 
 
-
+  
 
 ### 📊 GitHub Stats:
 
