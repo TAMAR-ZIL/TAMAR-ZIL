@@ -12,6 +12,8 @@ I also love discussing algorithms and solving coding challenges.
 - 🧩 **Fun fact**: I enjoy breaking down complex systems just to rebuild them better — like reverse-engineering for fun!
 
 - 📫 Connect with Me:
+
+- 
 📧 Email: 0527199526@gmail.com
 
 
