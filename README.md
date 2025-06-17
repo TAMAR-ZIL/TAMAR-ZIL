@@ -1,5 +1,5 @@
-#✨ Hi there! I'm Tamar Zilber 👋 ✨#
-##🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker##
+# ✨ Hi there! I'm Tamar Zilber 👋 ✨ 
+## 🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker
 
 ### 🌟 About Me:
 
