@@ -1,6 +1,9 @@
-<p align="center"> ✨ Hi there! I'm Tamar Zilber 👋 ✨</p>
-## 🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker
-
+<p align="center">
+  <b>✨ Hi there! I'm Tamar Zilber 👋 ✨</b>
+</p>  
+<p align="center">
+  <b>🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker</b>
+</p>
 ### 🌟 About Me:
 
 🤝 Exploring exciting opportunities in Full Stack Development where creativity and quality matter most.
